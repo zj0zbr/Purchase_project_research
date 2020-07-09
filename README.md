@@ -8,7 +8,7 @@
 - [Buying-a-house-in-Hangzhou-in-2016](https://github.com/chahuilin/Buying-a-house-in-Hangzhou-in-2016)：买房费用记录。
 - [HousePricingOfBeijing](https://github.com/hetianle/HousePricingOfBeijing) ：基于SOA架构的北京丝房价地理信息系统，提供北京市海量房源数据的位置信息和属性信息的空间可视化展示，房源位置、属性及其周边的查询筛选
 - [house](https://github.com/zhanghao-zhoushan/house)：house 关于房子的两三事儿。
-- [https://github.com/lidapang/BuyHouse]:买房前有必要看一下
+- [BuyHouse](https://github.com/lidapang/BuyHouse)：买房前有必要看一下
 - [you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)：程序员需要知道的房产信息。
 
 
