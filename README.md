@@ -1,4 +1,4 @@
-# Purchase_project_researchh
+# Purchase_project_research
 关于调研买房相关的资料和经历分享，汇总目前可供参考的项目供大家参考，可能会持续更新
 
 ----------
